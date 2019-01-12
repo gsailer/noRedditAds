@@ -1,5 +1,5 @@
 # noRedditAds
-Hide reddit apps by style
+Hide reddit ads by style
 
 Steps to set up:
 
