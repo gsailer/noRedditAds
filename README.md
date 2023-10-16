@@ -1,6 +1,8 @@
 # noRedditAds
 Hide reddit ads by style
 
+### Updated for Manifest V3
+
 Steps to set up:
 
 - clone repository
