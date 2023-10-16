@@ -2,9 +2,9 @@
     "name": "noRedditAds",
     "version": "0.1",
     "description": "Hide Reddit Ads by style",
-    "manifest_version": 2,
-    "permissions": [
-        "https://*.reddit.com/*"
+    "manifest_version": 3,
+    "host_permissions": [
+        "*://*.reddit.com/*"
     ],
     "content_scripts": [
         {
