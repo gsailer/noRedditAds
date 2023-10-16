@@ -1,7 +1,7 @@
 # noRedditAds
 Hide reddit ads by style
 
-### Updated for Manifest V3 [https://developer.chrome.com/blog/mv2-transition/]
+Updated for Manifest V3 [https://developer.chrome.com/blog/mv2-transition/]
 
 Steps to set up:
 
